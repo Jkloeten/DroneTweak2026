@@ -7,6 +7,7 @@
 
 **Unlock the full potential of your DJI Drone.** This tool provides a simple GUI to bypass manufacturer restrictions, enable FCC mode in CE regions, and remove altitude limits. Now fully compatible with **Air 3** and **Mini 4 Pro**.
 
+![Settings Panel](https://i.ibb.co/9mP6ZpTS/Screenshot-2025-12-30-at-11-23-41.png)
 ![Dashboard Preview](https://i.ibb.co/5x1cJgnK/Screenshot-2025-12-30-at-11-23-48.png)
 
 ##  Main Features
